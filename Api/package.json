@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "task 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Solomon Tadesse",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
